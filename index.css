@@ -1,10 +1,19 @@
 h1 {
-    background-color: aqua;
+    background-color:lightsteelblue ;
     text-align: center;
     color: black;
+    ;
 }
 section {
     text-align: center;
-    background-color: darkcyan;
-    
+    background-color: lightslategray;
+    color: black;
+}
+p {
+    padding: 10px;
+    background-color: lightslategray;
+    text-align: center;
+}
+body {
+    background-color: lightslategray;
 }
