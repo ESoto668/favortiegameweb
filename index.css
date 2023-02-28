@@ -17,4 +17,8 @@ p {
 body {
     background-color: lightslategray;
     text-align: center;
+    border: 5px;
+    border-style:double;
+    margin: 5px;
+    
 }
