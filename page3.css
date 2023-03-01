@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    background-color:lightblue;
+}
+section {
+    text-align: center;
+    background-color: dimgray;
+    
+}
+body {
+    text-align: center;
+    background-color: dimgray;
+}
+p {
+    background-color: dimgray;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dashed;
+}
